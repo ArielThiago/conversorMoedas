@@ -14,6 +14,7 @@ customtkinter.set_default_color_theme("dark-blue")
 janela = customtkinter.CTk()
 janela.geometry("400x600")
 janela.title("Conversor de moedas")
+janela.iconbitmap("favicon.ico")
 
 #criar botões, textos e demais elementos
 titulo = customtkinter.CTkLabel(janela, text="Conversor de moedas", font=("",25))
