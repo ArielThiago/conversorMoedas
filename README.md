@@ -40,7 +40,7 @@ pip install customtkinter requests xmltodict
 
 - Site: https://docs.awesomeapi.com.br/api-de-moedas
 - Lista completa de combinações: https://economia.awesomeapi.com.br/xml/available
-- Lista de nomes das moedas https://economia.awesomeapi.com.br/xml/available/uniq
+- Lista de nomes das moedas: https://economia.awesomeapi.com.br/xml/available/uniq
     
 ## Screenshots
 
